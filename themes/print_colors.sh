@@ -1,0 +1,1 @@
+../../dev/stow/alacritty/.config/themes/print_colors.sh
